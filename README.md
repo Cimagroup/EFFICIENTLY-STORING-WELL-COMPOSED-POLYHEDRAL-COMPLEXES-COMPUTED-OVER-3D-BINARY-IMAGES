@@ -16,3 +16,5 @@ Function generate_encoding_P_from_M generates the 3D binary image L that encodes
 - For more details of each one of the functions, see the corresponding code.  
 
 - In EXAMPLE.m, there are two examples to practice.    
+
+Author: Belén Medrano
